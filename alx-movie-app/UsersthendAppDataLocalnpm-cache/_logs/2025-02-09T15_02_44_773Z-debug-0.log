@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.1
+2 info using node@v20.16.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:c:\Users\thend\alx-pwa-0x01\alx-movie-app\.npmrc
+5 silly config load:file:C:\Users\thend\.npmrc
+6 silly config load:file:C:\Users\thend\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm view next description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "next" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:C:\Users\thend\alx-pwa-0x01\alx-movie-app\UsersthendAppDataLocalnpm-cache\_logs\2025-02-09T15_02_44_773Z-
+10 verbose logfile C:\Users\thend\alx-pwa-0x01\alx-movie-app\UsersthendAppDataLocalnpm-cache\_logs\2025-02-09T15_02_44_773Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/next 11179ms (cache updated)
+13 verbose cwd c:\Users\thend\alx-pwa-0x01\alx-movie-app
+14 verbose os Windows_NT 10.0.19045
+15 verbose node v20.16.0
+16 verbose npm  v10.8.1
+17 verbose exit 0
+18 info ok
